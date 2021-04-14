@@ -6,7 +6,7 @@
             "image":"./images/dress1.jpg",
             "description": "Midi sundress wit shirring detail",
             "availableSizes":["X","L","XL","XXL"],
-            "price": 29.9
+            "price": 29.99
         },
         {
             "_id":"dress2",
@@ -14,7 +14,7 @@
             "image":"./images/dress2.jpg",
             "description": "Midi sundress wit ruched detail",
             "availableSizes":["X","M","L"],
-            "price": 18.9
+            "price": 18.99
         },
         {
             "_id":"dress3",
@@ -22,7 +22,7 @@
             "image":"./images/dress3.jpg",
             "description": "Midi sundress wit shirring detail",
             "availableSizes":["X","L","XL","XXL"],
-            "price": 29.9
+            "price": 37.99
         },
         {
             "_id":"dress4",
@@ -30,7 +30,7 @@
             "image":"./images/dress4.jpg",
             "description": "Midi sundress wit shirring detail",
             "availableSizes":["X","L","XL","XXL"],
-            "price": 29.9
+            "price": 59.99
         },
         {
             "_id":"dress5",
@@ -38,7 +38,7 @@
             "image":"./images/dress5.jpg",
             "description": "Frill mini dress in yellow polka dot",
             "availableSizes":["X","L","XL"],
-            "price": 10.9
+            "price": 10.99
         },
         {
             "_id":"dress6",
@@ -46,7 +46,7 @@
             "image":"./images/dress6.jpg",
             "description": "Mini tea dress in blue and red spot",
             "availableSizes":["XL","XXL"],
-            "price": 49.9
+            "price": 49.99
         }
         
     ]
