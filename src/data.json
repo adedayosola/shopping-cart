@@ -4,7 +4,7 @@
             "_id":"dress1",
             "title":"Dress 1",
             "image":"./images/dress1.jpg",
-            "description": "Midi sundress wit shirring detail",
+            "description": "Midi Sundress with shirring detail",
             "availableSizes":["X","L","XL","XXL"],
             "price": 29.99
         },
@@ -12,7 +12,7 @@
             "_id":"dress2",
             "title":"Dress 2",
             "image":"./images/dress2.jpg",
-            "description": "Midi sundress wit ruched detail",
+            "description": "Green Sundress with ruched detail",
             "availableSizes":["X","M","L"],
             "price": 18.99
         },
@@ -20,7 +20,7 @@
             "_id":"dress3",
             "title":"Dress3",
             "image":"./images/dress3.jpg",
-            "description": "Midi sundress wit shirring detail",
+            "description": "Floral patterned sundress",
             "availableSizes":["X","L","XL","XXL"],
             "price": 37.99
         },
@@ -28,7 +28,7 @@
             "_id":"dress4",
             "title":"Dress 4",
             "image":"./images/dress4.jpg",
-            "description": "Midi sundress wit shirring detail",
+            "description": "Black casual with white spots",
             "availableSizes":["X","L","XL","XXL"],
             "price": 59.99
         },

@@ -24,6 +24,7 @@ body,input,select,textarea,button{
 }
 a{
   text-decoration: none;
+  color: #203040;
 }
 a:hover{
   color: #ff8000;
@@ -91,13 +92,14 @@ footer{
     justify-content: space-between;
     align-items: center;
   }
-  .product-price div,
+  
   .product-price button{
     text-align: center;
     flex: 1;
   }
   .product-price div{
     font-size: 2rem;
+    flex: 1;
   }
   .button{
     padding:1rem;
