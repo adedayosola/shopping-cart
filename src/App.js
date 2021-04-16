@@ -1,4 +1,4 @@
-import { render } from "@testing-library/react";
+// import { render } from "@testing-library/react";
 import React from "react";
 import Products from "./components/Products";
 import Filter from "./components/Filter";
@@ -40,8 +40,8 @@ class App extends React.Component {
     this.setState((state)=> ({
       sort: sort,
       products: this.state.products.slice().sort((a,b)=>(
-        sort == "lowest" ? ((a.price > b.price) ? 1:-1):
-        sort == "highest" ? ((a.price < b.price) ? 1:-1):
+        sort === "lowest" ? ((a.price > b.price) ? 1:-1):
+        sort === "highest" ? ((a.price < b.price) ? 1:-1):
         ((a._id < b._id) ? 1:-1)
       ))
     }));
